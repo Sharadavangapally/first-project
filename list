@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>list</title>
+</head>
+<body>
+<ol>
+<li>banana</li>
+<li>apple</li>
+<li>grapes</li>
+<li>pomogranite</li>
+</ol>
+<ul>
+<li>tomato</li>
+<li>brinjal</li>
+<li>potato</li>
+<li>brittle gaurd</li>
+</ul>
+<dl>
+<dt>msb2265</dt>
+<dd>this is msb2265 batch</dd>
+<dd>this batch has 49 students</dd>
+<dd>in this we learn web and mobile application</dd>
+</dl>
+</body>
