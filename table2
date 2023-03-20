@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>table</title>
+ <style>
+ <table
+      border=5px
+      border-colour:blue;
+      border-colour:solid;>
+ 
+th{
+    border=5px
+    border-colour:red;
+    border-colour:solid;
+  }
+ td{
+    border=5px
+    border-colour:green;
+    border-colour:solid
+    }
+ </style>    
+</head>
+<body>
+<table border=colour-blue> 
+<tr>
+    <th>SN</th>
+    <th>STUDENT NAME</th>
+    <th>MARKS</th>
+    <th>GRADE</th>
+    </tr>
+       <tr> 
+           <td>1</td>
+           <td>sharada</td>
+           <td>980</td>
+           <td>A</td>
+           </tr>
+       <tr>
+            <td>2</td>
+            <td>ajay kumar</td>
+            <td>990</td>
+            <td>A</td>
+            </tr>
+         <tr> 
+              <td>3</td>
+              <td>shiva</td>
+              <td>1000</td>
+              <td>A</td>
+              </tr>
+</table>
+</body>
+</html>
